@@ -3,6 +3,7 @@ A front end site from the freecodecamp.org demonstrating the basics of HTML and 
 
 # Concepts explored
 
+Cat Photo App:
 -Basic HTML and HTML5 elements: Headline with the h2 Element, inform with the Paragraph Element, add Images to Website link 
 to External Pages with Anchor Elements, link to Internal Sections of a Page with Anchor Elements,Nest an Anchor Element within 
 a Paragraph; Make Dead Links Using the Hash Symbol; Turn an Image into a Link; Create a Bulleted Unordered List; Create an Ordered 
@@ -14,3 +15,9 @@ Many Elements within a Single div Element; Declare the Doctype of an HTML Docume
 Elements with a CSS Class; Change the Font Size of an Element; Set the Font Family of an Element; Import a Google Font; Specify 
 How Fonts Should Degrade; Size Your Images; Add Borders Around Your Elements; Add Rounded Corners with border-radius; Make 
 Circular Images with a border-radius
+
+Stylesheet1: 
+-using CSS to manipulate margin, padding and border 
+
+Stylesheet2: 
+-overriding various style attributes with CSS
