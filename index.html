@@ -3,7 +3,7 @@
 
 <head>
     <title>
-    </title> 
+    </title>
     <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 
     <style>
@@ -34,6 +34,10 @@
         .silver-background {
             background-color: silver;
         }
+
+        [type='checkbox'] {
+            margin: 10px 0px 15px 0px
+        }
     </style>
 </head>
 
@@ -60,7 +64,7 @@
         </ol>
     </div>
 
-    <form  action="/submit-cat-photo">
+    <form id="cat-photo-form" action="/submit-cat-photo">
         <label for="indoor">
                 <input id="indoor" type="radio" name="indoor-outdoor" checked>Indoor
         </label>
