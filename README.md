@@ -15,9 +15,3 @@ Many Elements within a Single div Element; Declare the Doctype of an HTML Docume
 Elements with a CSS Class; Change the Font Size of an Element; Set the Font Family of an Element; Import a Google Font; Specify 
 How Fonts Should Degrade; Size Your Images; Add Borders Around Your Elements; Add Rounded Corners with border-radius; Make 
 Circular Images with a border-radius
-
-Stylesheet1: 
--using CSS to manipulate margin, padding and border 
-
-Stylesheet2: 
--overriding various style attributes with CSS
